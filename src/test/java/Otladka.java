@@ -4,6 +4,6 @@ public class Otladka {
 
     @Test
     public void sss(){
-        System.out.println("sss");
+        System.out.println("sss2");
     }
 }
